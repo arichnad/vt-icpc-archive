@@ -1,0 +1,106 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>Mid-Atlantic Regional Contest 2002 Problems</title>
+  </head>
+
+  <body>
+    <h1>Mid-Atlantic Regional Contest 2002 Problems</h1>
+
+    <p><a href="MidAtlantic2002-final.pdf">Problem description</a> (modified
+      to reflect clarifications issued during contest).
+
+    <p><a href="Practice2002.pdf">Practice Problem</a>
+
+    <p><a href="MidAtlantic2002-Solutions+Data.tgz">Judges'
+	Solutions and Test Data</a>
+
+    <h2>Clarifications issued during contest</h2>
+
+    <dl>
+      <dt>Problem E: A Baron Landscape
+      <dd>Q: Does "within 6 days" mean <= 6 or <6.<br>
+	A: <= 6
+
+      <dt>Problem B: An Amazing Problem
+      <dd>Q: Is the space outside the maze the letter 'O' or the
+	number 0 (zero)?<br>
+	A: The space is the letter 'O' not the digit '0'
+
+      <dt>Problem A: A Simple Question of Chemistry
+      <dd>Q: How do we display a difference of exactly zero? (With regard to the no leading zeros restrictions)
+0.00?
+.00?
+Some other way?<br>
+	A: We prefer 0.00, however we have accepted .00
+
+      <dt>Several problems
+      <dd>Q: Are we supposed to have an endline after "End of
+	Output"?<br>
+	A: We will accept either way.  We prefer a newline.
+    </dl>
+
+    
+    <h2>Judges' Comments</h2>
+
+    <dl>
+      <dt>Time limit 
+
+      <dd>This year the time limit was reduced from 2 minutes to 30
+	seconds.  In the past, we have found that for problems where the
+	time limit is an issue, typically a good solution completes in
+	seconds, whereas a bad solution may take hours.  Therefore, it was
+	generally obvious within a few seconds whether the solution was
+	valid or not, but judges had to wait for the full two minutes
+	for each submission. This wait caused backlogs in judging these
+	problems.  This year we reduced the time limit to reduce these
+	backlogs.  The judges' solutions, in both C and Java, for all of
+	the problems solved the test data used during the contest in
+	under two seconds on an 800Mhz P3.
+
+      <dt>Problem B: An Amazing Problem
+      <dd>This was the most unusual of the problems.  A number of
+	teams seemed to have a hard time understanding the concept
+	behind the question, asking clarifications such as "Do we have
+	to find the optimal path?"  Obviously an optimal path can't be
+	calculated unless you have a map of the entire maze at the
+	start, which you don't in this problem.
+
+	<p>We found that some submissions did not work because they used
+	IO calls that did not flush the output buffer after each
+	line. Because we felt that output buffer flushing was beyond
+	the scope of the programming contest, we modified such
+	submissions to flush their buffer after each line before
+	judging them.
+
+      <dt>Problem C: Spelling Be 
+      <dd>This problem is essentially a test of algorithm efficiency.
+	The dictionary and emails are large enough that simply reading
+	the dictionary into an array and doing linear search on it for
+	each word will take too long.  Any reasonably efficient solution
+	to sorting and searching will solve the problem in a second or
+	less.  Our Java solution uses a <code>HashSet</code> from the
+	JDK API to achieve constant time storage and lookups.  Our C++
+	solution uses old-fashioned <code>qsort</code> and
+	<code>bsearch</code> from stdlib.  A C++ STL solution using
+	vectors and sort could also be used.
+	
+	<p>Alternatively, a team could have coded up an efficient sort
+	  and search on their own.  But one of the important skills in a
+	  programming contest is recognizing the power of the tools you
+	  have at your disposal.  For teams that use libraries
+	  effectively, this was an easy problem.  
+
+      </dl>
+
+
+
+    <hr>
+<!-- Created: Wed Nov 27 14:10:54 EST 2002 -->
+<!-- hhmts start -->
+Last modified: Wed Nov 27 14:50:33 EST 2002
+<!-- hhmts end -->
+  </body>
+</html>
+
+

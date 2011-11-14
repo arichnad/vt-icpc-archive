@@ -1,0 +1,119 @@
+The quick brown foxes jump over 
+the lazy yellow dogs.
+***
+The quick brown foxe jump over 
+   the lazy yellow dog.
+***
+THE QUICK BROWN FOXE JUMP OVER 
+THE LAZY YELLOW DOG.
+***
+The quick brown foxe jump-over 
+the lazy yellow dog.
+The quick brown foxe jump_over 
+the lazy yellow dog.
+The quick brown foxe jump1over 
+the lazy yellow dog.
+***
+The quick brown foxe jump over 
+the lazy yellow dog. 
+  They did it to get to the 
+strawberry, cherry, and apple.  I
+wish they had left some for the py.
+***
+a b ba bb baa bab bba bbb baaa baab baba babb bbaa bbab bbba bbbb
+***
+a b bzay bzby bzaay bazby bzbay bbzby bazaay bazaby bazbay
+bazbby bbzaay bbzaby bbzbay bbzbby
+***
+//  From an early draft of the problem:
+//
+//  Try to gues the stem form of an English word by apply
+//  the followe rules:  (# and % stand for any consonant, and 
+//  @ for any vowel [aeiou].
+//
+//       ies                 y            fly => fly
+//       ied                 y            carry => carry
+//       ier                 y            merry => merry
+//       iest                y            merry => merry
+//       ##ed                #            hitt => hit
+//       ##ing               #            hitt => hit
+//       ##er                #            hitt => hit
+//       ##est               #            hott => hot
+//       %@#ed               %@#e         glide => glide
+//       %@#ing              %@#e         glide => glide
+//       %@#er               %@#e         glide => glide
+//       %@#est              %@#e         pal => pale
+//       #ed                 #            bark => bark
+//       #ing                #            boil => boil
+//       #er                 #            cold => cold
+//       #est                #            cold => cold
+//       #s                  #            thing => th
+12345 !@#$%
+***
+The quick brown foxes jumped over 
+the lazy yellow dogs. They did
+it to get to the strawberries,
+cherries, and apples. I wish
+they had left some for the pies.
+***
+The quick brown foxes jumped over 
+the lazy yellow dogs. They did
+it to get to the strawberries,
+cherries, and apples. I wish
+they had left some for the pies.
+A Bx Cx dx e fx
+***
+The quick brown foxes jumped over 
+the lazy yellow dogs. They did
+it to get to the strawberries,
+cherries, and apples. Iz wish
+they had left some for the pies.
+Az B C d ez f
+***
+The quick brown foxes jumped over 
+the lazy yellow dogs. They did
+it to get to the strawberries,
+cherries, and apples. Iz wish
+they had left some for the pies.
+A B C d e f G H iz
+***
+Thz quick brown foxes jumped over 
+thz lazy yellow dogs. They did
+it to get to thz strawberries,
+cherries, and apples. I wish
+they had left somz for thz pies.
+A B C d e f G H i
+***
+xThe qquick qbrown zfoxes zjumped zover 
+xthe qlazy zyellow qdogs. zThey zdid
+qit xto zget xto xthe zstrawberries,
+zcherries, qand zapples. I qwish
+zthey zhad qleft xsome zfor xthe zpies.
+A B C d e f G H i
+***
+a aa aaa aaaa aaaaa aaaaaa aaaaaaa
+aaaaaaaa aaaaaaaaa aaaaaaaaaa aaaaaaaaaaa
+aaaaaaaaaaaa aaaaaaaaaaaaa aaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+q
+aaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaa
+aaaabaaaaaaaaaa
+aaaabaaaaaaaaaaa
+aaaabaaaaaaaaaaaa
+aaaaeaaaaaaaaaaaaa
+aaaaeaaaaaaaaaaaaaa
+aaaaeaaaaaaaaaaaaaaa
+aaaaeaaaaaaaaaaaaaaaa
+***
+a ab abc abcd abcd abcdef abcdefg
+abcdefgh abcdefghi abcdefchij
+abcdefchijk abcdefchijkl
+***
+a ab abc abcd abcd abcdef abcdefg
+abcdefgh abcdefghi abcdefchij
+abcdefchijk abcdefchijkl
+***

@@ -1,0 +1,101 @@
+31 15
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                             X
+X                             X
+X                             X
+X   XXXX XXXXX                X
+X   X        X                X
+X   X   G    X                X
+X   X        X                X
+X   X        X                X
+X   XXXXXXXXXX                X
+X                             X
+X                             X
+X                 XXXXXXXXXXXXX
+X                             X
+XXXXXXEXXXXXXXXXXXXXXXEXXXXXXXX
+31 15
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X               X   X  X      X
+X      X        X   X  X      X
+X      X            X  X      X
+X   XXXXXXXXXX  X   X  X      X
+X   X      X X  X      X      X
+X      X X X    XXXX   X  X   X
+X   X  XGX X X  X  X   X  X   X
+X   X  X     X  X  X   X  X   X
+X   XXXXXXXXXX     X      X   X
+X       X   X  XXXXXXXXXXXX   X
+E       X   XXXX              X
+XXXXXXX X         XXXXXXXXXXXXX
+X       X                     X
+XXXXXXXXXXXXXXXXXXXXXXEXXXXXXXX
+31 15
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X               X   X  X      X
+X      X        X   X  X      X
+X      X            X  X      X
+X   XXXXXXXXXX  X   X  X      X
+X   X      X X  X      X      X
+X   X  X X X X  XXXX   X  X   X
+X   X  XGX X X  X  X   X  X   X
+X   X  X     X  X  X   X  X   X
+X   XXXXXXXXXX     X      X   X
+X       X   X  XXXXXXXXXXXX   X
+X       X   XXXX              X
+XXXXXXX X         XXXXXXXXXXXXX
+X       X                     X
+XXXXXXEXXXXXXXXXXXXXXXEXXXXXXXX
+26 13
+XXXXXXXXXXXXXXXEXXXXXXXXXX
+X                        X
+X XXXX  XXXXXXXXXXXXXXX  X
+X X     X     X       X  X
+X X     X X X X       X  X
+X X     X XGX X       X  X
+E X     X XXX X       X  E
+X X     X     X       X  X
+X X     XXX XXX       X  X
+X X                   X  X
+X XXXXXXXXXXXXXXXXXXXXX  X
+X                        X
+XXXXXXEXXXXXXXXXXXXXXXXXXX
+11 7
+XXXXXXXXXXX
+EX       GX
+XX        X
+E X       X
+XX        X
+X         X
+XXXXXXXXXXX
+11 7
+XXXXXXXXXXX
+EG        X
+XX        X
+E X       X
+XX        X
+X         X
+XXXXXXXXXXX
+11 7
+XEXEXEXEXEX
+E         E
+XXXXXXXXXXX
+E        GE
+XXXXXXXXX X
+E         E
+XEXEXEXEXEX
+3 3
+XEX
+EGE
+XEX
+4 4
+XXXXX EXtra characters
+XG XX should be ignored
+X  XE
+XEXXX
+4 4
+XXXX Missing chars replaced by X
+X G
+X
+XEX
+0 0

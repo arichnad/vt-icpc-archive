@@ -1,0 +1,180 @@
+*ed => 1
+
+The quick brown foxes jumped over 
+the lazy yellow dogs.
+
+*ed => 1
+*ies => 1y
+*s => 1
+
+The quick brown foxes jumped over 
+   the lazy yellow dogs.
+
+*ed => 1
+*ies => 1y
+*s => 1
+
+THE QUICK BROWN FOXES JUMPED OVER 
+THE LAZY YELLOW DOGS.
+
+*ed => 1
+*ies => 1y
+*s => 1
+
+The quick brown foxes jumped-over 
+the lazy yellow dogs.
+The quick brown foxes jumped_over 
+the lazy yellow dogs.
+The quick brown foxes jumped1over 
+the lazy yellow dogs.
+
+*ed => 1
+*ies => 1y
+*s => 1
+
+The quick brown foxes jumped over 
+the lazy yellow dogs. 
+  They did it to get to the 
+strawberries, cherries, and apples.  I
+wish they had left some for the pies.
+
+*1 => 1q2
+
+a b ba bb baa bab bba bbb baaa baab baba babb bbaa bbab bbba bbbb
+
+*z1y => 13
+
+a b bzay bzby bzaay bazby bzbay bbzby bazaay bazaby bazbay
+bazbby bbzaay bbzaby bbzbay bbzbby
+
+*ies => 1y
+*ied => 1y
+*ier => 1y
+*iest => 1y
+*C2ed => 12
+*C2ing => 12
+*C2er => 12
+*C2est => 12
+*CVCed => 1234e
+*CVCing => 1234e
+*CVCer => 1234e
+*CVCest => 1234e
+*Ced => 12
+*Cing => 12
+*Cer => 12
+*Cest => 12
+*Cs => 12
+
+//  From an earlier draft of the problem:
+//
+//  Try to guess the stem form of an English word by applying
+//  the following rules:  (# and % stand for any consonant, and 
+//  @ for any vowel [aeiou].
+//
+//       ies                 y            flies => fly
+//       ied                 y            carried => carry
+//       ier                 y            merrier => merry
+//       iest                y            merriest => merry
+//       ##ed                #            hitted => hit
+//       ##ing               #            hitting => hit
+//       ##er                #            hitter => hit
+//       ##est               #            hottest => hot
+//       %@#ed               %@#e         glided => glide
+//       %@#ing              %@#e         gliding => glide
+//       %@#er               %@#e         glider => glide
+//       %@#est              %@#e         palest => pale
+//       #ed                 #            barked => bark
+//       #ing                #            boiling => boil
+//       #er                 #            colder => cold
+//       #est                #            coldest => cold
+//       #s                  #            things => thing
+12345 !@#$%
+
+* => 1x
+
+The quick brown foxes jumped over 
+the lazy yellow dogs. They did
+it to get to the strawberries,
+cherries, and apples. I wish
+they had left some for the pies.
+
+C => 1x
+
+The quick brown foxes jumped over 
+the lazy yellow dogs. They did
+it to get to the strawberries,
+cherries, and apples. I wish
+they had left some for the pies.
+A B C d e f
+
+V => 1z
+
+The quick brown foxes jumped over 
+the lazy yellow dogs. They did
+it to get to the strawberries,
+cherries, and apples. I wish
+they had left some for the pies.
+A B C d e f
+
+i => 1z
+
+The quick brown foxes jumped over 
+the lazy yellow dogs. They did
+it to get to the strawberries,
+cherries, and apples. I wish
+they had left some for the pies.
+A B C d e f G H i
+
+*e => 1z
+*i => 1x
+
+The quick brown foxes jumped over 
+the lazy yellow dogs. They did
+it to get to the strawberries,
+cherries, and apples. I wish
+they had left some for the pies.
+A B C d e f G H i
+
+*VC => z123
+*V => x12
+*C => q12
+
+The quick brown foxes jumped over 
+the lazy yellow dogs. They did
+it to get to the strawberries,
+cherries, and apples. I wish
+they had left some for the pies.
+A B C d e f G H i
+
+a123456789123456789 => q
+
+a aa aaa aaaa aaaaa aaaaaa aaaaaaa
+aaaaaaaa aaaaaaaaa aaaaaaaaaa aaaaaaaaaaa
+aaaaaaaaaaaa aaaaaaaaaaaaa aaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaa
+aaaabaaaaaaaaaa
+aaaabaaaaaaaaaaa
+aaaabaaaaaaaaaaaa
+aaaaeaaaaaaaaaaaaa
+aaaaeaaaaaaaaaaaaaa
+aaaaeaaaaaaaaaaaaaaa
+aaaaeaaaaaaaaaaaaaaaa
+
+abcdefghijk => 987654321
+
+a ab abc abcd abcd abcdef abcdefg
+abcdefgh abcdefghi abcdefchij
+abcdefchijk abcdefchijkl
+
+abc321 => 123456
+
+a ab abc abcd abcd abcdef abcdefg
+abcdefgh abcdefghi abcdefchij
+abcdefchijk abcdefchijkl
+***

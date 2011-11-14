@@ -1,0 +1,38 @@
+0 15 Testing<b>!</b>
+18 23 <big>100, <bigger>1000, <biggest>10000</biggest></bigger></big>
+4 4 <b>123</b>
+0 16   :-/ :-> :-) :-<-> </->
+1 4 abcdefg
+0 33 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+0 32 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+0 31 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+0 27 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+0 26 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+0 21 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+0 20 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+0 19 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+0 15 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+0 14 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+0 10 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+0 9 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+0 6 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+0 5 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+0 4 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+0 1 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+33 33 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+32 33 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+31 33 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+27 33 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+26 33 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+21 33 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+20 33 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+19 33 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+15 33 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+14 33 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+10 33 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+9 33 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+6 33 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+5 33 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+4 33 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+1 33 a<b>cd<i>e</i>f<tt>gh</tt>i</b>jk
+-1 -1 

@@ -1,0 +1,12 @@
+check 100 is correct
+deposit 2 incorrect amount
+check 101 math mistake
+check 104 is not in statement
+check 100 repeated transaction
+check 104 is not in statement repeated transaction
+check 102 math mistake
+check 101 repeated transaction incorrect amount math uses correct value
+check 103 is correct
+deposit 3 is correct
+deposit 4 is correct
+missed deposit 1

@@ -1,0 +1,22 @@
+8
+N R 2
+D R 3
+R N 2
+R D 10
+Z R 7
+C D 9
+N C 6
+A N 4
+2
+A Z 3
+Z A 10
+2
+P A 6
+P Z 9
+5
+A B 1
+B Z 4
+A C 8
+C Z 19
+B C 12
+0
