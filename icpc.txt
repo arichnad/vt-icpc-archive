@@ -1,4 +1,5 @@
 
+http://icpc.baylor.edu/community/history-early-years
 http://web.archive.org/web/20130720140532/http://acm.fireduck.com/wiki/index.php/History
 http://web.archive.org/web/20081102084142/http://www.acm.org/pubs/membernet/archives/issue_8/stories/icpc_05-03.html
 
@@ -32,10 +33,10 @@ virginia tech at icpc finals
 	17	1993 - 12
 	16	1992 -  4
 	15	1991 -  3
-	14	1990 -  advanced to finals
-	13	1989 -  advanced to finals
-	12	1988 -  advanced to finals
-	11	1987 -  advanced to finals according to http://web.archive.org/web/20081102084142/http://www.acm.org/pubs/membernet/archives/issue_8/stories/icpc_05-03.html
+	14	1990 - advanced to finals
+	13	1989 - advanced to finals
+	12	1988 - advanced to finals
+	11	1987 - advanced to finals according to http://web.archive.org/web/20081102084142/http://www.acm.org/pubs/membernet/archives/issue_8/stories/icpc_05-03.html
 	10	1986 -  ?
 	9	1985 -  ?
 	8	1984 -  2
@@ -69,10 +70,11 @@ virginia tech at icpc regionals
 
 virginia tech icpc coaches
 
-	198? - 2004		henry
-	2004 - 2005		hanks
-	2005 - 2011		gleason
-	2011 - 2014		back
+	198? - 2004  Sallie Henry
+	2004 - 2005  Logan Hanks
+	2005 - 2009  Joseph Gleason
+	2009 - 2012  John Edstrom & Godmar Back
+	2012 -  now  Godmar Back
 
 virginia tech icpc finals teams
 
