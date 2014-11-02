@@ -9,13 +9,14 @@ http://web.archive.org/web/20120310144924/http://www.ece.vt.edu/ecenews/sept98/p
 
 virginia tech at icpc finals
 
-	38	2014 - advanced to finals
+	39	2015 - advanced to finals
+	38	2014 - hm (45 were numbered, 88 teams)
 	37	2013 - did not advance to finals
 	36	2012 - did not advance to finals
 	35	2011 - did not advance to finals
 	34	2010 - did not advance to finals
 	33	2009 - did not advance to finals
-	32	2008 - did not advance to finals (6700 total)
+	32	2008 - did not advance to finals
 	31	2007 - hm (64 were numbered, 88 teams, 6099 total) 21 years in a row
 	30	2006 - hm (55 were numbered, 83 teams, 5606 total)
 	29	2005 - hm (40 were numbered, 78 teams, ? total)
