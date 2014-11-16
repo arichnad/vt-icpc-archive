@@ -52,6 +52,7 @@ virginia tech at icpc finals
 
 virginia tech at icpc regionals
 
+	2014 - 188 teams:  3, 11, 15, 16, 48, 57, 57, 57
 	2013 - 191 teams:  2, 11, 28, 37, 64, 72
 	2012 - 173 teams:  18, 19, 38, 52, 72, 83
 	2011 - 168 teams:  30, 32, 62, 68, 93
@@ -79,6 +80,8 @@ virginia tech icpc coaches
 
 virginia tech icpc finals teams
 
+	2014 - Ekaterinburg
+	Nicholas Sharp, Michael O'Beirne, Matt Dallmeyer
 	2007 - Tokyo
 	Cris Kania, Mike Henry, Joel Riley
 	2006 - San Antonio
@@ -95,7 +98,7 @@ virginia tech icpc finals teams
 	Logan Hanks, Alex Kalita, Tim Terriberry
 	2000 - Orlando
 	Rob Clancy, Logan Hanks, Albert Lee
-	1999 - Eindhoven, Netherlands
+	1999 - Eindhoven
 	David Mayhew, Albert Lee, Tim Terriberry
 	1998
 	Michael Gross, Farzad Valad, Nick Loehr
