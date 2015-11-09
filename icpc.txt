@@ -6,11 +6,14 @@ http://web.archive.org/web/20081102084142/http://www.acm.org/pubs/membernet/arch
 http://web.archive.org/web/20140520172207/http://www.cs.vt.edu/icpcqualifier2013
 http://web.archive.org/web/20130514174605/http://www.vtnews.vt.edu/articles/2003/04/2003-138.html
 http://web.archive.org/web/20120310144924/http://www.ece.vt.edu/ecenews/sept98/program.html
+[2014 Ekaterinburg WF Scoreboard](http://static.kattis.com/icpc/wf2014/)
+[2015 Marrakesh WF Scoreboard](http://static.kattis.com/icpc/wf2015/)
+Current team website: https://icpc.cs.vt.edu/
 
 virginia tech at icpc finals
 
-	39	2015 - hm (76 were numbered, 128 teams, 12720 total)
-	38	2014 - hm (79 were numbered, 122 teams, 10681 total)
+	39	2015 - hm (finished #92, 76 were numbered, 128 teams, 12720 total)
+	38	2014 - hm (finished #92, 79 were numbered, 122 teams, 10681 total)
 	37	2013 - did not advance to finals
 	36	2012 - did not advance to finals
 	35	2011 - did not advance to finals
@@ -49,6 +52,12 @@ virginia tech at icpc finals
 	2	1978 -  ?
 	1	1977 -  ?
 
+virginia tech at NAIPC ("North American Invitational Programming Contest"), in 2012-13 called Chicago Invitational
+
+    2015 - 45 teams invited: #23    [Scoreboard](http://naipc.uchicago.edu/2015/_static/scoreboard-invitational-final.html)
+    2014 - 21 teams invited: #15    [Scoreboard](http://naipc.uchicago.edu/2014/scoreboard-final-onsite.html)
+    2013 - not invited
+    2012 - not invited
 
 virginia tech at icpc regionals
 
@@ -74,7 +83,7 @@ virginia tech at icpc regionals
 virginia tech icpc coaches
 
 	 3 years	2012 -  now  Godmar Back
-	 3 years	2009 - 2012  John Edstrom & Godmar Back
+	 3 years	2009 - 2012  John Edstrom
 	 4 years	2005 - 2009  Joseph Gleason
 	 1 year		2004 - 2005  Logan Hanks
 	22 years	1982 - 2004  Sallie Henry
@@ -83,46 +92,84 @@ virginia tech icpc finals teams
 
 	2015 - Marrakesh, Morocco
 	Nicholas Sharp, Scott Pruett, and Miraziz Yusupov
+
 	2014 - Ekaterinburg
 	Nicholas Sharp, Michael O'Beirne, Matt Dallmeyer
+
 	2007 - Tokyo
 	Cris Kania, Mike Henry, Joel Riley
+
 	2006 - San Antonio
 	George Hilios, Mike Henry, Vinh Ly
+
 	2005 - Shanghai
 	Derek Brandao, Gustavo Moura, Doug Peterson
+
 	2004 - Prague
 	Kevin Ferguson, Greg Grothaus, Joseph Gleason
+
 	2003 - Beverly Hills
 	Adrian Porter, Jamie Eckman, Alex Kalita
+
 	2002 - Honolulu
 	Adrian Porter, William Luebke, Alex Verstak
+
 	2001 - Vancouver
 	Logan Hanks, Alex Kalita, Tim Terriberry
+
 	2000 - Orlando
 	Rob Clancy, Logan Hanks, Albert Lee
+
 	1999 - Eindhoven
 	David Mayhew, Albert Lee, Tim Terriberry
+
 	1998
 	Michael Gross, Farzad Valad, Nick Loehr
 
 virginia tech icpc regionals teams
 
 	2015
-	2nd place: Peter Steele, Chris Wu, Dustin Pho
-	11th place: Scott Pruett, Hassan Almas, Miraziz Yusupov
-	16th place: Nathaniel Lahn, Harrison Fang, Rupin Khera
-	37th place: Marcus Wanner, Monica Wei, Phillipe Gray
-	98th place: Katherine Staepel, Thomas Gaudioso, Madhur Mahajan
-	118th place: Zac Hensley, Alex Glasson, Jack Geissinger
-	118th place: Ravi Srinivasan, Bryan Kaperick, Matthew Petracca
+	2nd place: "Java The Hutt"Peter Steele, Chris Wu, Dustin Pho
+	11th place: "C3++": Scott Pruett, Hassan Almas, Miraziz Yusupov
+	16th place: "R2O(1)": Nathaniel Lahn, Harrison Fang, Rupin Khera
+	37th place: "Adhocca": Marcus Wanner, Monica Wei, Phillipe Gray
+	98th place: "Modelica Falcon": Katherine Staepel, Thomas Gaudioso, Madhur Mahajan
+	118th place: "Han Kojo": Zac Hensley, Alex Glasson, Jack Geissinger
+	118th place: "Princess Lua": Ravi Srinivasan, Bryan Kaperick, Matthew Petracca
+
+	2014
+    3rd place: "The Traveling Salesmen": Nicholas Sharp, Scott Pruett, Miraziz Yusupov
+    11th place: "Trie Hards": Brendan Avent, Tucker Noia, Saurav Sharma
+    15th place: "The Canonical Backtrackers": Hassan Almas, Andriy Katkov, Nathaniel Lahn
+    16th place: "The Breadth-First Searchers": Harrison Fang, Daniel Gil, Luke Wolff
+    48th place: "Ternary Search Party": Nate Craun, Michael Zamani, Loran Steinberger
+    57th place: "The Multinomials": Larissa Perara, Aarathi Raghuraman, Monica Wei
+    57th place: "Recursive Descendants": Carlos Folgar, Brannon Mason, Elliace Zargarpur
+    57th place: "The Naive Backtrackers": Patrick Easter, Edward McEnrue, Reid Thomas
+
 	2013
-	2nd place: Nicholas Sharp, Michael O'Beirne, Matt Dallmeyer
-	11th place: David Hernandez, Brendan Avent, Tucker Noia
-	28th place: Andrew Koh, Kais Sorrels, Scott Pruett
-	37th place: Jean-Marie Menye-Menye, Mike Shuffett, Nate Craun
-	64th place: Loran Steinberg, Mohammed Davoodi, Roger Yamada
-	72nd place: Miraziz Yusupov, Amit Ishairzay, Tim Collins
+	2nd place: "\b": Nicholas Sharp, Michael O'Beirne, Matt Dallmeyer
+	11th place: "\": David Hernandez, Brendan Avent, Tucker Noia
+	28th place: "~": Andrew Koh, Kais Sorrels, Scott Pruett
+	37th place: "^": Jean-Marie Menye-Menye, Mike Shuffett, Nate Craun
+	64th place: "&": Loran Steinberg, Mohammed Davoodi, Roger Yamada
+	72nd place: "£": Miraziz Yusupov, Amit Ishairzay, Tim Collins
+
+    2012
+    18th place: "Egyptian Brackets": Eeshan Shah, Ian Davies, Tony Majestro
+    19th place: "Baby Got Back": Mike O'Beirne, Nicholas Sharp, Matt Dallmeyer
+    38th place: "Terrorbyte": Michael Naper, Michael Shuffett, Martin Overstrom
+    52nd place: "BackPack": Hasan Afzal, Mohammed Davoodi, Brendan Avent
+    72nd place: "Pokemon Exceptions": Andrew Rothwell, Ayan Sarkar, Karthik Kumar
+    83rd place: "Min-Flow Max-Cut": Nate Craun, Robin Lambert, Sam Clem
+
+    2010
+    13th place: "VT-1 (The Flaming Gleasons)": John Edstrom, Gabriel Martinez, Andy Street
+    47nd place: "VT-4": Alnajar MohKhair, Mark Nachazel, Karthik Kumar
+    52nd place: "VT-3": Michael Gouhin, Eeshan Shah, Avneet Singh
+    55th place: "VT-5": Steven Beam, Dev Shah, Andrew Shugarts
+    96th place: "VT-2": Ryan Honig, John Krulick, Vikram Rajasekaran
+
 	2009
 	VT1 - Weasel Ball - John Edstrom, Gabe Martinez, Andy Street
 	VT2 - Apple Butter - John Sherwood, Steve Beam, Ben Reid
