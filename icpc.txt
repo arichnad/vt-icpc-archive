@@ -52,12 +52,12 @@ virginia tech at icpc finals
 	2	1978 -  ?
 	1	1977 -  ?
 
-virginia tech at NAIPC ("North American Invitational Programming Contest"), in 2012-13 called Chicago Invitational
+virginia tech at naipc ("north american invitational programming contest"), in 2012-13 called chicago invitational
 
-    2015 - 45 teams invited: #23    [Scoreboard](http://naipc.uchicago.edu/2015/_static/scoreboard-invitational-final.html)
-    2014 - 21 teams invited: #15    [Scoreboard](http://naipc.uchicago.edu/2014/scoreboard-final-onsite.html)
-    2013 - not invited
-    2012 - not invited
+	2015 - 45 teams invited: #23	[Scoreboard](http://naipc.uchicago.edu/2015/_static/scoreboard-invitational-final.html)
+	2014 - 21 teams invited: #15	[Scoreboard](http://naipc.uchicago.edu/2014/scoreboard-final-onsite.html)
+	2013 - not invited
+	2012 - not invited
 
 virginia tech at icpc regionals
 
@@ -129,96 +129,105 @@ virginia tech icpc finals teams
 virginia tech icpc regionals teams
 
 	2015
-	2nd place: "Java The Hutt"Peter Steele, Chris Wu, Dustin Pho
-	11th place: "C3++": Scott Pruett, Hassan Almas, Miraziz Yusupov
-	16th place: "R2O(1)": Nathaniel Lahn, Harrison Fang, Rupin Khera
-	37th place: "Adhocca": Marcus Wanner, Monica Wei, Phillipe Gray
-	98th place: "Modelica Falcon": Katherine Staepel, Thomas Gaudioso, Madhur Mahajan
-	118th place: "Han Kojo": Zac Hensley, Alex Glasson, Jack Geissinger
-	118th place: "Princess Lua": Ravi Srinivasan, Bryan Kaperick, Matthew Petracca
+	2nd place - "Java The Hutt" - Peter Steele, Chris Wu, Dustin Pho
+	11th place - "C3++" - Scott Pruett, Hassan Almas, Miraziz Yusupov
+	16th place - "R2O(1)" - Nathaniel Lahn, Harrison Fang, Rupin Khera
+	37th place - "Adhocca" - Marcus Wanner, Monica Wei, Phillipe Gray
+	98th place - "Modelica Falcon" - Katherine Staepel, Thomas Gaudioso, Madhur Mahajan
+	118th place - "Han Kojo" - Zac Hensley, Alex Glasson, Jack Geissinger
+	118th place - "Princess Lua" - Ravi Srinivasan, Bryan Kaperick, Matthew Petracca
 
 	2014
-    3rd place: "The Traveling Salesmen": Nicholas Sharp, Scott Pruett, Miraziz Yusupov
-    11th place: "Trie Hards": Brendan Avent, Tucker Noia, Saurav Sharma
-    15th place: "The Canonical Backtrackers": Hassan Almas, Andriy Katkov, Nathaniel Lahn
-    16th place: "The Breadth-First Searchers": Harrison Fang, Daniel Gil, Luke Wolff
-    48th place: "Ternary Search Party": Nate Craun, Michael Zamani, Loran Steinberger
-    57th place: "The Multinomials": Larissa Perara, Aarathi Raghuraman, Monica Wei
-    57th place: "Recursive Descendants": Carlos Folgar, Brannon Mason, Elliace Zargarpur
-    57th place: "The Naive Backtrackers": Patrick Easter, Edward McEnrue, Reid Thomas
+	3rd place - "The Traveling Salesmen" - Nicholas Sharp, Scott Pruett, Miraziz Yusupov
+	11th place - "Trie Hards" - Brendan Avent, Tucker Noia, Saurav Sharma
+	15th place - "The Canonical Backtrackers" - Hassan Almas, Andriy Katkov, Nathaniel Lahn
+	16th place - "The Breadth-First Searchers" - Harrison Fang, Daniel Gil, Luke Wolff
+	48th place - "Ternary Search Party" - Nate Craun, Michael Zamani, Loran Steinberger
+	57th place - "The Multinomials" - Larissa Perara, Aarathi Raghuraman, Monica Wei
+	57th place - "Recursive Descendants" - Carlos Folgar, Brannon Mason, Elliace Zargarpur
+	57th place - "The Naive Backtrackers" - Patrick Easter, Edward McEnrue, Reid Thomas
 
 	2013
-	2nd place: "\b": Nicholas Sharp, Michael O'Beirne, Matt Dallmeyer
-	11th place: "\": David Hernandez, Brendan Avent, Tucker Noia
-	28th place: "~": Andrew Koh, Kais Sorrels, Scott Pruett
-	37th place: "^": Jean-Marie Menye-Menye, Mike Shuffett, Nate Craun
-	64th place: "&": Loran Steinberg, Mohammed Davoodi, Roger Yamada
-	72nd place: "£": Miraziz Yusupov, Amit Ishairzay, Tim Collins
+	2nd place - "\b" - Nicholas Sharp, Michael O'Beirne, Matt Dallmeyer
+	11th place - "\" - David Hernandez, Brendan Avent, Tucker Noia
+	28th place - "~" - Andrew Koh, Kais Sorrels, Scott Pruett
+	37th place - "^" - Jean-Marie Menye-Menye, Mike Shuffett, Nate Craun
+	64th place - "&" - Loran Steinberg, Mohammed Davoodi, Roger Yamada
+	72nd place - "£" - Miraziz Yusupov, Amit Ishairzay, Tim Collins
 
-    2012
-    18th place: "Egyptian Brackets": Eeshan Shah, Ian Davies, Tony Majestro
-    19th place: "Baby Got Back": Mike O'Beirne, Nicholas Sharp, Matt Dallmeyer
-    38th place: "Terrorbyte": Michael Naper, Michael Shuffett, Martin Overstrom
-    52nd place: "BackPack": Hasan Afzal, Mohammed Davoodi, Brendan Avent
-    72nd place: "Pokemon Exceptions": Andrew Rothwell, Ayan Sarkar, Karthik Kumar
-    83rd place: "Min-Flow Max-Cut": Nate Craun, Robin Lambert, Sam Clem
+	2012
+	18th place - "Egyptian Brackets" - Eeshan Shah, Ian Davies, Tony Majestro
+	19th place - "Baby Got Back" - Mike O'Beirne, Nicholas Sharp, Matt Dallmeyer
+	38th place - "Terrorbyte" - Michael Naper, Michael Shuffett, Martin Overstrom
+	52nd place - "BackPack" - Hasan Afzal, Mohammed Davoodi, Brendan Avent
+	72nd place - "Pokemon Exceptions" - Andrew Rothwell, Ayan Sarkar, Karthik Kumar
+	83rd place - "Min-Flow Max-Cut" - Nate Craun, Robin Lambert, Sam Clem
 
-    2010
-    13th place: "VT-1 (The Flaming Gleasons)": John Edstrom, Gabriel Martinez, Andy Street
-    47nd place: "VT-4": Alnajar MohKhair, Mark Nachazel, Karthik Kumar
-    52nd place: "VT-3": Michael Gouhin, Eeshan Shah, Avneet Singh
-    55th place: "VT-5": Steven Beam, Dev Shah, Andrew Shugarts
-    96th place: "VT-2": Ryan Honig, John Krulick, Vikram Rajasekaran
+	2010
+	13th place - "VT-1 (The Flaming Gleasons)" - John Edstrom, Gabriel Martinez, Andy Street
+	47nd place - "VT-4" - Alnajar MohKhair, Mark Nachazel, Karthik Kumar
+	52nd place - "VT-3" - Michael Gouhin, Eeshan Shah, Avneet Singh
+	55th place - "VT-5" - Steven Beam, Dev Shah, Andrew Shugarts
+	96th place - "VT-2" - Ryan Honig, John Krulick, Vikram Rajasekaran
 
 	2009
 	VT1 - Weasel Ball - John Edstrom, Gabe Martinez, Andy Street
 	VT2 - Apple Butter - John Sherwood, Steve Beam, Ben Reid
 	VT3 - Really Old Candy - Will Brady, Sahil Talwar, Jayton Gill
 	VT4 - Rocking Chair - Kevin Zeng, Vikram Rajasekaran, Zach Buckley
+	
 	2008
 	Virginia Tech - Coconut Storm - John Edstrom, Timothy Tutt, Gabriel Martinez
 	Virginia Tech - Pineapple Awakening - Andy Street, Steve Beam, John Sherwood
 	Virginia Tech - Midnight Pomegranate - Jayton Gill, Ben Reid, Travis Collins
+	
 	2007
 	Virginia Tech 1 - Circular Trees (James Knighton, Anthony Romero, Ben Reid)
 	Virginia Tech 2 - Fighting Vertices (Tolley, Andy Street, Ramesh)
 	Virginia Tech 3 - Floyd's Folly (Tim, Gabe, John)
 	Virginia Tech 4 - Hamiltonion Pathfinders (Travis, Jason)
+	
 	2006
 	Virginia Tech 1 - The Milk's Gone Bad - Cris Kania, Mike Henry, Joel Riley
 	Virginia Tech 2 - (N+1) Amigos where N=2 - Jef HuKari, John Araya, Russel Tolley
 	Virginia Tech 3 - Congressional Pages - Jayton Gill, Dan Little
 	Virginia Tech 4 - Shaka When the Walls Fell - Timothy Tutt, John Edstrom, Naren Sundaravaradan
 	Virginia Tech 5 - The Tersely Cogents - Gabriel Martinez, Shen Lu, Jonathan Rexrode
+	
 	2005
 	Virginia Tech 1 - George Hilios, Mike Henry, Vinh Ly
 	Virginia Tech 2 - Jef HuKari, Carl Sutter, Doug Peterson
 	Virginia Tech 3 - Cris Kanis, James Knighton, Joel Riley
 	Virginia Tech 4 - John Araya, Devin Dasbach, Will Randolph
+	
 	2004
 	Virginia Tech 1 - Joseph Gleason, Vinh Ly, Allen Kerr
 	Virginia Tech 2 - Derek Brandao, Gustavo Moura, Doug Peterson
 	Virginia Tech 3 -
 	Virginia Tech 4 -
 	Virginia Tech 5 -
+	
 	2003
 	Virginia Tech 1 - Kevin Ferguson, Greg Grothaus, Joseph Gleason
 	Virginia Tech 2 - Allen Kerr, Eric Tressler, Patrick Butler
 	Virginia Tech 3 -
 	Virginia Tech 4 -
 	Virginia Tech 5 -
+	
 	2002
 	Virginia Tech 1 - Kevin Ferguson, Alex Kalita, Mike Heffner
 	Virginia Tech 2 - Dan Moisa, Greg Grothaus, Ben Andrews
 	Virginia Tech 3 - Adrian Porter, Jamie Eckman, Joseph Gleason
 	Virginia Tech 4 - Eric Tressler, Allen Kerr, Brian Maher
 	Virginia Tech 5 - Goeff Filippi, Derek Brandao, Aaron Kaluszkant
+	
 	2001
 	Virginia Tech 1 - Alex Verstak, William Luebke, Adrian Porter
 	Virginia Tech 2 - John Zaloudek, Brandon Horsley, Eric Tessler
 	Virginia Tech 3 - Nathan Dilday, John Costigan, Allen Kerr
 	Virginia Tech 4 - Alex Kalita, Kevin Ferguson, Mike Heffner
 	Virginia Tech 5 - Dan Moisa, Greg Grothaus, Brent Metz
+	
 	2000
 	Virginia Tech 1 - Logan Hanks, Alex Kalita, Tim Terriberry
 	Virginia Tech 2 - Ahmed Desouky, Nick Pappas, ?
