@@ -8,10 +8,12 @@ http://web.archive.org/web/20130514174605/http://www.vtnews.vt.edu/articles/2003
 http://web.archive.org/web/20120310144924/http://www.ece.vt.edu/ecenews/sept98/program.html
 [2014 Ekaterinburg WF Scoreboard](http://static.kattis.com/icpc/wf2014/)
 [2015 Marrakesh WF Scoreboard](http://static.kattis.com/icpc/wf2015/)
+[2016 Phuket Island WF Scoreboard](http://static.kattis.com/icpc/wf2016/)
 Current team website: https://icpc.cs.vt.edu/
 
 virginia tech at icpc finals
 
+	40	2016 - hm (finished #74, 68 were numbered, 128 teams, 13422 total)
 	39	2015 - hm (finished #92, 76 were numbered, 128 teams, 12720 total)
 	38	2014 - hm (finished #92, 79 were numbered, 122 teams, 10681 total)
 	37	2013 - did not advance to finals
@@ -54,7 +56,8 @@ virginia tech at icpc finals
 
 virginia tech at naipc ("north american invitational programming contest"), in 2012-13 called chicago invitational
 
-	2015 - 45 teams invited: #23	[Scoreboard](http://naipc.uchicago.edu/2015/_static/scoreboard-invitational-final.html)
+	2016 - 48 teams competed: #26	[Scoreboard](http://naipc.uchicago.edu/2016/_static/standings/invitational.html)
+	2015 - 45 teams competed: #23	[Scoreboard](http://naipc.uchicago.edu/2015/_static/scoreboard-invitational-final.html)
 	2014 - 21 teams invited: #15	[Scoreboard](http://naipc.uchicago.edu/2014/scoreboard-final-onsite.html)
 	2013 - not invited
 	2012 - not invited
@@ -89,6 +92,9 @@ virginia tech icpc coaches
 	22 years	1982 - 2004  Sallie Henry
 
 virginia tech icpc finals teams
+
+	2016 - Phuket Island, Thailand
+	Peter Steele, Chris Wu, and Dustin Pho
 
 	2015 - Marrakesh, Morocco
 	Nicholas Sharp, Scott Pruett, and Miraziz Yusupov
