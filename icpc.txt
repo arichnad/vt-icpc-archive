@@ -64,8 +64,9 @@ virginia tech at naipc ("north american invitational programming contest"), in 2
 
 virginia tech at icpc regionals
 
+	2016 - 176 teams:  1, 6, 11, 14, 22, 25, 26, 29, 68, 93 (2016*)
 	2015 - 185 teams:  2, 11, 16, 37, 98, 118, 118
-	2014 - 188 teams:  3, 11, 15, 16, 48, 57, 57, 57
+	2014 - 188 teams:  3, 11, 15, 16, 48, 57, 57, 57 (2014*)
 	2013 - 191 teams:  2, 11, 28, 37, 64, 72
 	2012 - 173 teams:  18, 19, 38, 52, 72, 83
 	2011 - 168 teams:  30, 32, 62, 68, 93
@@ -83,9 +84,27 @@ virginia tech at icpc regionals
 	1999 - 144 teams:  2, 7, 8, 15
 	1998 - 138 teams:  1, 3, 13, 53
 
+(2014*) In 2014, the PC^2 contest management system failed about 3:45h into the contest.
+    Some teams were able to submit and received acknowledgments, some did not.
+    Judges were unable to retrieve submissions to judge them.  The PC^2 developers were
+    brought in to try to retrieve submissions from the PC^2 software.  A week later,
+    submissions from other teams showed up which changed the scoreboard order, moving
+    Messiah into 1st, UMD into 2nd, and Virginia Tech into 3rd.
+
+(2016*) In 2016, a near-complete failure of the PC^2 contest management system meant that
+    places below 18 could not accurately be determined.  We suspect that the actual range for
+    the VT teams that placed 22-29 might be in the range of 19-40.
+    The contest was delayed by 90min because the submission interface was not functional,
+    then cut short to just under 4h.  Teams were instructed to save their code so the
+    timestamp could later be checked.  About 60 mins into the contest, the interface started
+    working again. Some teams noticed right away and submitted, others did so only later.
+    In post-contest analysis, only some timestamps were reconstructed - the organizers
+    looked at only those teams in contention for a World Finals spot - thus, only corrections
+    for teams that solved 3 are shown on the final scoreboard included in this archive.
+
 virginia tech icpc coaches
 
-	 3 years	2012 -  now  Godmar Back
+	 4 years	2012 -  now  Godmar Back
 	 3 years	2009 - 2012  John Edstrom
 	 4 years	2005 - 2009  Joseph Gleason
 	 1 year		2004 - 2005  Logan Hanks
@@ -134,6 +153,18 @@ virginia tech icpc finals teams
 
 virginia tech icpc regionals teams
 
+	2016            see (2016*)
+    1st place  - "PriorityQueues for President" - Peter Steele, Chris Wu, Andriy Katkov
+    6th place  - "HashSets for President" - Jeff Robertson, Christy Coghlan, Nathan Lahn
+    11th place - "LinkedLists for President" - Andy Sin, Shengzhe Xu, Geson Chong
+    14th place - "TreeSets for President" - Daniel Moyer, Jamie Simon, Ariana Herbst
+    22nd place - "ArrayDeques for President" - Eric Williamson, Lance Chao, Harrison Fang
+    25th place - "Hashtables for President" - Stu Harvey, Daniel Amick, Drew Maczugowski
+    26th place - "BitSets for President" - Luke Wolff, Andrew Lahann, Swaraj Dhumne
+    29th place - "TreeMaps for President" - Bryce Humphrey, Ryan Berft, Alexander Glasson
+    68th place - "ArrayLists for President" - Raju Nadimpalli, JooYoung Whang, Yevhen Pylypenko
+    93rd place - "HashMaps for President" - Hunter Morris, Jameson Dyer, Bright Zheng
+
 	2015
 	2nd place - "Java The Hutt" - Peter Steele, Chris Wu, Dustin Pho
 	11th place - "C3++" - Scott Pruett, Hassan Almas, Miraziz Yusupov
@@ -143,7 +174,7 @@ virginia tech icpc regionals teams
 	118th place - "Han Kojo" - Zac Hensley, Alex Glasson, Jack Geissinger
 	118th place - "Princess Lua" - Ravi Srinivasan, Bryan Kaperick, Matthew Petracca
 
-	2014
+	2014            see (2014*)
 	3rd place - "The Traveling Salesmen" - Nicholas Sharp, Scott Pruett, Miraziz Yusupov
 	11th place - "Trie Hards" - Brendan Avent, Tucker Noia, Saurav Sharma
 	15th place - "The Canonical Backtrackers" - Hassan Almas, Andriy Katkov, Nathaniel Lahn
