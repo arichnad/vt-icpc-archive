@@ -6,13 +6,16 @@ http://web.archive.org/web/20081102084142/http://www.acm.org/pubs/membernet/arch
 http://web.archive.org/web/20140520172207/http://www.cs.vt.edu/icpcqualifier2013
 http://web.archive.org/web/20130514174605/http://www.vtnews.vt.edu/articles/2003/04/2003-138.html
 http://web.archive.org/web/20120310144924/http://www.ece.vt.edu/ecenews/sept98/program.html
+http://wvtf.org/post/virginia-tech-team-heads-world-finals-computer-coding
 [2014 Ekaterinburg WF Scoreboard](http://static.kattis.com/icpc/wf2014/)
 [2015 Marrakesh WF Scoreboard](http://static.kattis.com/icpc/wf2015/)
 [2016 Phuket Island WF Scoreboard](http://static.kattis.com/icpc/wf2016/)
+[2017 Rapid City WF Scoreboard](http://static.kattis.com/icpc/wf2017/)
 Current team website: https://icpc.cs.vt.edu/
 
 virginia tech at icpc finals
 
+	41	2017 - 56 (finished #64, 109 were numbered, 128 teams, 9th/25 North America, 46,381/3 = ~15,460 total)
 	40	2016 - hm (finished #74, 68 were numbered, 128 teams, 13422 total)
 	39	2015 - hm (finished #92, 76 were numbered, 128 teams, 12720 total)
 	38	2014 - hm (finished #92, 79 were numbered, 122 teams, 10681 total)
@@ -56,6 +59,7 @@ virginia tech at icpc finals
 
 virginia tech at naipc ("north american invitational programming contest"), in 2012-13 called chicago invitational
 
+	2017 - 48 teams competed: #12	[Scoreboard](http://naipc.uchicago.edu/2017/_static/standings/invitational.html)
 	2016 - 48 teams competed: #26	[Scoreboard](http://naipc.uchicago.edu/2016/_static/standings/invitational.html)
 	2015 - 45 teams competed: #23	[Scoreboard](http://naipc.uchicago.edu/2015/_static/scoreboard-invitational-final.html)
 	2014 - 21 teams invited: #15	[Scoreboard](http://naipc.uchicago.edu/2014/scoreboard-final-onsite.html)
@@ -104,13 +108,16 @@ virginia tech at icpc regionals
 
 virginia tech icpc coaches
 
-	 4 years	2012 -  now  Godmar Back
+	 5 years	2012 -  now  Godmar Back
 	 3 years	2009 - 2012  John Edstrom
 	 4 years	2005 - 2009  Joseph Gleason
 	 1 year		2004 - 2005  Logan Hanks
 	22 years	1982 - 2004  Sallie Henry
 
 virginia tech icpc finals teams
+
+	2017 - Rapid City, SD, USA
+	Peter Steele, Chris Wu, and Andriy Katkov
 
 	2016 - Phuket Island, Thailand
 	Peter Steele, Chris Wu, and Dustin Pho
