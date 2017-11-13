@@ -68,6 +68,7 @@ virginia tech at naipc ("north american invitational programming contest"), in 2
 
 virginia tech at icpc regionals
 
+    2017 - 170 teams:  2, 7, 20, 32, 33, 55, 77, 79, 126, 142
 	2016 - 176 teams:  1, 6, 11, 14, 22, 25, 26, 29, 68, 93 (2016*)
 	2015 - 185 teams:  2, 11, 16, 37, 98, 118, 118
 	2014 - 188 teams:  3, 11, 15, 16, 48, 57, 57, 57 (2014*)
@@ -159,6 +160,18 @@ virginia tech icpc finals teams
 	Michael Gross, Farzad Valad, Nick Loehr
 
 virginia tech icpc regionals teams
+
+    2017
+    2nd place  - "EvilSort" - Adam Barth, Daniel Moyer, Eric Williamson
+    7th place  - "WorstSort" - Ariana Herbst, Jamie Simon, Aarav Singh
+    20th place - "MonkeySort" - Nathaniel Lahn, Jeff Robertson, Alex Servin
+    32nd place - "PancakeSort" - Phillip Ngo, Drew Maczugowski, Ethan Gallagher
+    33rd place - "BogoSort" - Bryce Humphrey, Jonathan Mark, Alex Glasson
+    55th place - "SleepSort" - Alex Lind, Alec Helyar, Alyssa Herbst
+    77th place - "SillySort" - Jameson Dyer, Christy Coghlan, Jacob Merizian
+    79th place - "StoogeSort" - Weitao Li, Justin Park, Luke Quinn
+    126th place- "GoroSort" - Henry Wang, Andrew Lahann, Yevhen Pylypenko
+    142th place- "BozoSort" - Bright Zheng, Ankit Deshmukh, Francisco Bernier
 
 	2016            see (2016*)
     1st place  - "PriorityQueues for President" - Peter Steele, Chris Wu, Andriy Katkov
