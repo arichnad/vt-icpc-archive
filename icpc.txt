@@ -15,7 +15,8 @@ Current team website: https://icpc.cs.vt.edu/
 
 virginia tech at icpc finals
 
-    41  2017 - 56 (finished #64, 109 were numbered, 128 teams, 9th/25 North America, 46,381/3 = ~15,460 total)
+    42  2018 - hm (98 were numbered, 140 teams, 49935/3 = 16645 total)
+    41  2017 - 56 (finished #64, 109 were numbered, 128 teams, 9th/25 North America, 46381/3 = ~15460 total)
     40  2016 - hm (finished #74, 68 were numbered, 128 teams, 13422 total)
     39  2015 - hm (finished #92, 76 were numbered, 128 teams, 12720 total)
     38  2014 - hm (finished #92, 79 were numbered, 122 teams, 10681 total)
@@ -109,7 +110,7 @@ virginia tech at icpc regionals
 
 virginia tech icpc coaches
 
-     5 years    2012 -  now  Godmar Back
+     6 years    2012 -  now  Godmar Back
      3 years    2009 - 2012  John Edstrom
      4 years    2005 - 2009  Joseph Gleason
      1 year     2004 - 2005  Logan Hanks
@@ -117,14 +118,17 @@ virginia tech icpc coaches
 
 virginia tech icpc finals teams
 
+    2018 - Beijing
+    Daniel Moyer, Eric Williamson, Adam Barth
+
     2017 - Rapid City, SD, USA
-    Peter Steele, Chris Wu, and Andriy Katkov
+    Peter Steele, Chris Wu, Andriy Katkov
 
     2016 - Phuket Island, Thailand
-    Peter Steele, Chris Wu, and Dustin Pho
+    Peter Steele, Chris Wu, Dustin Pho
 
     2015 - Marrakesh, Morocco
-    Nicholas Sharp, Scott Pruett, and Miraziz Yusupov
+    Nicholas Sharp, Scott Pruett, Miraziz Yusupov
 
     2014 - Ekaterinburg
     Nicholas Sharp, Michael O'Beirne, Matt Dallmeyer
