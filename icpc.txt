@@ -15,6 +15,8 @@ Current team website: https://icpc.cs.vt.edu/
 
 virginia tech at icpc finals
 
+    43  2019 - did not advance to finals
+    42  2018 - hm (finished #124, 98 were numbered, 140 teams, 21th/23 North America, 49,935/3 = ~16,645 total)
     41  2017 - 56 (finished #64, 109 were numbered, 128 teams, 9th/25 North America, 46,381/3 = ~15,460 total)
     40  2016 - hm (finished #74, 68 were numbered, 128 teams, 13422 total)
     39  2015 - hm (finished #92, 76 were numbered, 128 teams, 12720 total)
@@ -59,6 +61,8 @@ virginia tech at icpc finals
 
 virginia tech at naipc ("north american invitational programming contest"), in 2012-13 called chicago invitational
 
+    2019 - not invited
+    2018 - 43 teams competed: #14   [Scoreboard](https://naipc18.kattis.com/standings/standalone?filter=1258)
     2017 - 48 teams competed: #12   [Scoreboard](http://naipc.uchicago.edu/2017/_static/standings/invitational.html)
     2016 - 48 teams competed: #26   [Scoreboard](http://naipc.uchicago.edu/2016/_static/standings/invitational.html)
     2015 - 45 teams competed: #23   [Scoreboard](http://naipc.uchicago.edu/2015/_static/scoreboard-invitational-final.html)
@@ -68,6 +72,7 @@ virginia tech at naipc ("north american invitational programming contest"), in 2
 
 virginia tech at icpc regionals
 
+    2018 - 185 teams:  11, 15, 30, 46, 62, 70, 89, 89, 89, 89
     2017 - 170 teams:  2, 7, 20, 32, 33, 55, 77, 79, 126, 142
     2016 - 176 teams:  1, 6, 11, 14, 22, 25, 26, 29, 68, 93 (2016*)
     2015 - 185 teams:  2, 11, 16, 37, 98, 118, 118
@@ -160,6 +165,18 @@ virginia tech icpc finals teams
     Michael Gross, Farzad Valad, Nick Loehr
 
 virginia tech icpc regionals teams
+
+    2018
+    11th place - "Classy Coders" - Daniel Moyer, Ariana Herbst, Aarav Singh
+    15th place - "Constructive Champions" - Nathaniel Lahn, Jamie Dyer, Jonathan Mark
+    30th place - "Exceptional Engineers" - Bryce Humphrey, Alyssa Herbst, Benjamin Reidys
+    46th place - "Objective Officers" - Alex Lind, Matthew Zhong, Jacob Merizian
+    62nd place - "Static Specialists" - Jared Blumen, Luke Wolff, Evan Quach
+    70th place - "Arrayed Admins" - Liling Yuan, Arianna Krinos, Luke Quinn
+    89th place - "Private Professionals" - Henry Wang, Zac Geier, Andrew Ahnn
+    89th place - "Listed Logicians" - Brook Tamir, Joey Dyer, Mischa Michael
+    89th place - "Methodical Mavens" - Ajay Sai, Francesco Bernier, Ryan Frodge
+    89th place - "Packaged Programmers" - Colin Peppler, Brady Bolton, Weihao Gao
 
     2017
     2nd place  - "EvilSort" - Adam Barth, Daniel Moyer, Eric Williamson
