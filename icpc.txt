@@ -36,12 +36,12 @@ virginia tech at icpc finals
     25  2001 -  2 (40 were numbered, 64 teams, 2700 total)
     24  2000 - 15 (38 were numbered, 60 total, 2400 total)
     23  1999 - 18 (38 were numbered, 62 teams, 1900 total)
-    22  1998 - 11
-    21  1997 - 16
-    20  1996 -  7
-    19  1995 -  6
-    18  1994 - hm (6 were numbered)
-    17  1993 - 12
+    22  1998 - 11 (40 were numbered, 54 teams, 1250 total)
+    21  1997 - 16 (27 were numbered, 50 teams, 1100 total)
+    20  1996 -  7 (26 were numbered, 43 teams, 1001 total)
+    19  1995 -  6 (38 teams, 900 total)
+    18  1994 - hm (6 were numbered, 35 teams, 628 total)
+    17  1993 - 12 (31 teams, 600 total)
     16  1992 -  4
     15  1991 -  3
     14  1990 - advanced to finals
@@ -59,8 +59,11 @@ virginia tech at icpc finals
     2   1978 -  ?
     1   1977 -  ?
 
-virginia tech at naipc ("north american invitational programming contest"), in 2012-13 called chicago invitational
+virginia tech at NAIPC ("North American Invitational Programming Contest"), in 2012-13 called "Chicago Invitational"
+Starting in 2020, this contest is now called "NAC" - North American Championship.
+A fixed number of teams of each region qualify that changes year to year.
 
+    2020 - we will be invited!  6 teams of MidAtlantic will go.
     2019 - not invited
     2018 - 43 teams competed: #14   [Scoreboard](https://naipc18.kattis.com/standings/standalone?filter=1258)
     2017 - 48 teams competed: #12   [Scoreboard](http://naipc.uchicago.edu/2017/_static/standings/invitational.html)
@@ -72,6 +75,7 @@ virginia tech at naipc ("north american invitational programming contest"), in 2
 
 virginia tech at icpc regionals
 
+    2019 - 158 teams:  5, 13, 19, 41, 43, 46, 61, 69, 75
     2018 - 185 teams:  11, 15, 30, 46, 62, 70, 89, 89, 89, 89
     2017 - 170 teams:  2, 7, 20, 32, 33, 55, 77, 79, 126, 142
     2016 - 176 teams:  1, 6, 11, 14, 22, 25, 26, 29, 68, 93 (2016*)
@@ -114,7 +118,7 @@ virginia tech at icpc regionals
 
 virginia tech icpc coaches
 
-     6 years    2012 -  now  Godmar Back
+     7 years    2012 -  now  Godmar Back
      3 years    2009 - 2012  John Edstrom
      4 years    2005 - 2009  Joseph Gleason
      1 year     2004 - 2005  Logan Hanks
@@ -164,12 +168,30 @@ virginia tech icpc finals teams
     1999 - Eindhoven
     David Mayhew, Albert Lee, Tim Terriberry
 
-    1998
+    1998 - Atlanta
     Michael Gross, Farzad Valad, Nick Loehr
+
+    according to https://icpc.baylor.edu/community/history-early-years
+    1991 - San Antonio, TX
+    Pat Brown, Joe Lavinus, Brad Gratham, Alex Barry, Keith Lindsey
+
+    1984 - Philadelphia, PA
+    Stan R. Zanarotti (team captain), Stephen Bloch, Jeff Brandenburg, Lee Wheat
 
 virginia tech icpc regionals teams
 
-    2018
+    2019    https://mausa19.kattis.com/standings
+     5th place - "46 is a Prime Number" - Yibo Huang, Alex Lind, Benjamin Reidys
+    13th place - "Team E" - Siddharth Akalwadi, Calvin Godmar, Jeffrey Peng
+    19th place - "Team G" - Joseph Dyer, Vamsi Manne, Henry Wang
+    41st place - "Team C" - Weihao Gao, Colin Peppler, Yen Truong
+    43rd place - "Team F" - Sai Ajayakumar, Mohammad Haider, Vinh Pham
+    46th place - "Team D" - Jared Blumen, Gabriela Velazquez-Pergola, Liling Yuan
+    61st place - "Team I" - Mark Braganza, Matt Davison, Bill Norris
+    69th place - "Team B" - Andrew Ahnn, Brook Tamir, Ashvin Venkatesan
+    75th place - "Team H" - Arash Behpour, Danny Chhour, Kyle Long
+
+    2018    https://mausa18.kattis.com/standings
     11th place - "Classy Coders" - Daniel Moyer, Ariana Herbst, Aarav Singh
     15th place - "Constructive Champions" - Nathaniel Lahn, Jamie Dyer, Jonathan Mark
     30th place - "Exceptional Engineers" - Bryce Humphrey, Alyssa Herbst, Benjamin Reidys
@@ -181,7 +203,7 @@ virginia tech icpc regionals teams
     89th place - "Methodical Mavens" - Ajay Sai, Francesco Bernier, Ryan Frodge
     89th place - "Packaged Programmers" - Colin Peppler, Brady Bolton, Weihao Gao
 
-    2017
+    2017    https://mausa17.kattis.com/standings
     2nd place  - "EvilSort" - Adam Barth, Daniel Moyer, Eric Williamson
     7th place  - "WorstSort" - Ariana Herbst, Jamie Simon, Aarav Singh
     20th place - "MonkeySort" - Nathaniel Lahn, Jeff Robertson, Alex Servin
