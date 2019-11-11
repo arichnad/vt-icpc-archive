@@ -182,7 +182,7 @@ virginia tech icpc regionals teams
 
     2019    https://mausa19.kattis.com/standings
      5th place - "46 is a Prime Number" - Yibo Huang, Alex Lind, Benjamin Reidys
-    13th place - "Team E" - Siddharth Akalwadi, Calvin Godmar, Jeffrey Peng
+    13th place - "Team E" - Siddharth Akalwadi, Calvin Godfrey, Jeffrey Peng
     19th place - "Team G" - Joseph Dyer, Vamsi Manne, Henry Wang
     41st place - "Team C" - Weihao Gao, Colin Peppler, Yen Truong
     43rd place - "Team F" - Sai Ajayakumar, Mohammad Haider, Vinh Pham
