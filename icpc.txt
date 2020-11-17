@@ -15,6 +15,7 @@ Current team website: https://icpc.cs.vt.edu/
 
 virginia tech at icpc finals
 
+    44  2020 - did not advance to finals
     43  2019 - did not advance to finals
     42  2018 - hm (finished #124, 98 were numbered, 140 teams, 21th/23 North America, 49935/3 = ~16645 total)
     41  2017 - 56 (finished #64, 109 were numbered, 128 teams, 9th/25 North America, 46381/3 = ~15460 total)
