@@ -199,10 +199,19 @@ In the 2020/2021 season, a North American Division Championship took place.
 
 virginia tech icpc regionals teams
 
-    2020    https://mausa20.kattis.com/standings
+    2021    https://mausa21.kattis.com/standings
+    21st place - "Team 2" - 
+    25th place - "se·ren·i·ty" - 
+    32nd place - "Team 1" - 
+    47th place - "Team 6" - 
+    61st place - "Team 5" - 
+    68th place - "Team 7" - 
+    72nd place - "Team 4" - 
+    97th place - "Team 3" - 
 
+    2020    https://mausa20.kattis.com/standings
      4th place - "Team 2" - Yibo Huang, Calvin Godfrey, Joey Dyer
-    21th place - "Team 3" - Aditi Diwan, Siddharth Akalwadi, Leonardo DiPerna
+    21st place - "Team 3" - Aditi Diwan, Siddharth Akalwadi, Leonardo DiPerna
     29th place - "Team 1" - Lalitha Kuppa, Sam Furman, Nicholas Hardy
 
     2019    https://mausa19.kattis.com/standings
