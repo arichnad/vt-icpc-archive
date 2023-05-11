@@ -15,7 +15,9 @@ Current team website: https://icpc.cs.vt.edu/
 
 virginia tech at icpc finals
 
-    44  2020 - 46 (finished #56, 58 were numbered, 117 teams, 9th/14 North America)
+    46  2023 - did not advance to finals
+    45  2022 - did not advance to finals
+    44  2021 - 46 (finished #56, 58 were numbered, 117 teams, 9th/14 North America)
     43  2019 - did not advance to finals
     42  2018 - hm (finished #124, 98 were numbered, 140 teams, 21th/23 North America, 49935/3 = ~16645 total)
     41  2017 - 56 (finished #64, 109 were numbered, 128 teams, 9th/25 North America, 46381/3 = ~15460 total)
@@ -77,6 +79,8 @@ A fixed number of teams of each region qualify that changes year to year.
 
 virginia tech at icpc regionals
 
+    2023 - 116 teams:  24, 29, 68, 71, division 2:  16, 27, 42, 42
+    2021 - 119 teams:  21, 25, 32, 47, 61, 72, 97
     2020 -  89 teams:  4, 21, 29
     2019 - 158 teams:  5, 13, 19, 41, 43, 46, 61, 69, 75
     2018 - 185 teams:  11, 15, 30, 46, 62, 70, 89, 89, 89, 89
@@ -131,7 +135,7 @@ virginia tech icpc coaches
 
 virginia tech icpc finals teams
 
-    2020 - Moscow
+    2021 - Moscow
     Yibo Huang, Benjamin Reidys, Alex Lind
 
     2018 - Beijing
@@ -198,6 +202,17 @@ In the 2020/2021 season, a North American Division Championship took place.
     No team advanced to the NAC 2021.
 
 virginia tech icpc regionals teams
+
+    2023    https://nasouth22d1.kattis.com/contests/nasouth22d1/standings?filter=4984
+    24th place - VT Team 1 - 
+    29th place - VT Team 4 - 
+    68th place - VT Team 2 - 
+    71st place - VT Team 3 - 
+    division 2    https://nasouth22d2.kattis.com/contests/nasouth22d2/standings?filter=4948
+    16th place - VT Team 6 - 
+    27th place - VT Team 5 - 
+    42nd place - VT Team 7 - 
+    42nd place - VT Team 8 - 
 
     2021    https://mausa21.kattis.com/standings
     21st place - "Team 2" - 
