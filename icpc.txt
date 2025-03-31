@@ -215,7 +215,7 @@ virginia tech icpc regionals teams
     42nd place - VT Team 7 - 
     42nd place - VT Team 8 - 
 
-    2021    https://mausa21.kattis.com/standings
+    2021    https://mausa21.kattis.com/contests/mausa21/standings
     21st place - "Team 2" - 
     25th place - "se·ren·i·ty" - 
     32nd place - "Team 1" - 
@@ -225,12 +225,12 @@ virginia tech icpc regionals teams
     72nd place - "Team 4" - 
     97th place - "Team 3" - 
 
-    2020    https://mausa20.kattis.com/standings
+    2020    https://mausa20.kattis.com/contests/mausa20/standings
      4th place - "Team 2" - Yibo Huang, Calvin Godfrey, Joey Dyer
     21st place - "Team 3" - Aditi Diwan, Siddharth Akalwadi, Leonardo DiPerna
     29th place - "Team 1" - Lalitha Kuppa, Sam Furman, Nicholas Hardy
 
-    2019    https://mausa19.kattis.com/standings
+    2019    https://mausa19.kattis.com/contests/mausa19/standings
      5th place - "46 is a Prime Number" - Yibo Huang, Alex Lind, Benjamin Reidys
     13th place - "Team E" - Siddharth Akalwadi, Calvin Godfrey, Jeffrey Peng
     19th place - "Team G" - Joseph Dyer, Vamsi Manne, Henry Wang
@@ -241,7 +241,7 @@ virginia tech icpc regionals teams
     69th place - "Team B" - Andrew Ahnn, Brook Tamir, Ashvin Venkatesan
     75th place - "Team H" - Arash Behpour, Danny Chhour, Kyle Long
 
-    2018    https://mausa18.kattis.com/standings
+    2018    https://mausa18.kattis.com/contests/mausa18/standings
     11th place - "Classy Coders" - Daniel Moyer, Ariana Herbst, Aarav Singh
     15th place - "Constructive Champions" - Nathaniel Lahn, Jamie Dyer, Jonathan Mark
     30th place - "Exceptional Engineers" - Bryce Humphrey, Alyssa Herbst, Benjamin Reidys
@@ -253,7 +253,7 @@ virginia tech icpc regionals teams
     89th place - "Methodical Mavens" - Ajay Sai, Francesco Bernier, Ryan Frodge
     89th place - "Packaged Programmers" - Colin Peppler, Brady Bolton, Weihao Gao
 
-    2017    https://mausa17.kattis.com/standings
+    2017    https://mausa17.kattis.com/contests/mausa17/standings
     2nd place  - "EvilSort" - Adam Barth, Daniel Moyer, Eric Williamson
     7th place  - "WorstSort" - Ariana Herbst, Jamie Simon, Aarav Singh
     20th place - "MonkeySort" - Nathaniel Lahn, Jeff Robertson, Alex Servin
