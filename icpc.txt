@@ -15,21 +15,12 @@ Current team website: https://icpc.cs.vt.edu/
 
 virginia tech at icpc finals
 
-    46  2023 - did not advance to finals
-    45  2022 - did not advance to finals
     44  2021 - 46 (finished #56, 58 were numbered, 117 teams, 9th/14 North America)
-    43  2019 - did not advance to finals
     42  2018 - hm (finished #124, 98 were numbered, 140 teams, 21th/23 North America, 49935/3 = ~16645 total)
     41  2017 - 56 (finished #64, 109 were numbered, 128 teams, 9th/25 North America, 46381/3 = ~15460 total)
     40  2016 - hm (finished #74, 68 were numbered, 128 teams, 13422 total)
     39  2015 - hm (finished #92, 76 were numbered, 128 teams, 12720 total)
     38  2014 - hm (finished #92, 79 were numbered, 122 teams, 10681 total)
-    37  2013 - did not advance to finals
-    36  2012 - did not advance to finals
-    35  2011 - did not advance to finals
-    34  2010 - did not advance to finals
-    33  2009 - did not advance to finals
-    32  2008 - did not advance to finals
     31  2007 - hm (64 were numbered, 88 teams, 6099 total) 21 years in a row
     30  2006 - hm (55 were numbered, 83 teams, 5606 total)
     29  2005 - hm (40 were numbered, 78 teams, ? total)
@@ -66,19 +57,17 @@ virginia tech at NAIPC ("North American Invitational Programming Contest"), in 2
 Starting in 2020, this contest is now called "NAC" - North American Championship.
 A fixed number of teams of each region qualify that changes year to year.
 
-    2021 - not invited
     2020 - 59 teams competed, #21   Scoreboard missing
-    2019 - not invited
     2018 - 43 teams competed: #14   [Scoreboard](https://naipc18.kattis.com/standings/standalone?filter=1258)
     2017 - 48 teams competed: #12   [Scoreboard](http://naipc.uchicago.edu/2017/_static/standings/invitational.html)
     2016 - 48 teams competed: #26   [Scoreboard](http://naipc.uchicago.edu/2016/_static/standings/invitational.html)
     2015 - 45 teams competed: #23   [Scoreboard](http://naipc.uchicago.edu/2015/_static/scoreboard-invitational-final.html)
     2014 - 21 teams invited: #15    [Scoreboard](http://naipc.uchicago.edu/2014/scoreboard-final-onsite.html)
-    2013 - not invited
-    2012 - not invited
 
 virginia tech at icpc regionals
 
+    2025 - ??? teams:  50, division 2:  9, 98
+    2024 - ??? teams:  56, division 2:  8, 19, 21
     2023 - 116 teams:  24, 29, 68, 71, division 2:  16, 27, 42, 42
     2021 - 119 teams:  21, 25, 32, 47, 61, 72, 97
     2020 -  89 teams:  4, 21, 29
@@ -127,7 +116,7 @@ virginia tech at icpc regionals
 
 virginia tech icpc coaches
 
-     7 years    2012 -  now  Godmar Back
+    12 years    2012 -  now  Godmar Back
      3 years    2009 - 2012  John Edstrom
      4 years    2005 - 2009  Joseph Gleason
      1 year     2004 - 2005  Logan Hanks
@@ -202,13 +191,25 @@ In the 2020/2021 season, a North American Division Championship took place.
     No team advanced to the NAC 2021.
 
 virginia tech icpc regionals teams
-
-    2023    https://nasouth22d1.kattis.com/contests/nasouth22d1/standings?filter=4984
+    2025    https://nasouth24.kattis.com/contests/nasouth24d1/standings
+    50th place - VT Team 1 - 
+    division 2    https://nasouth24.kattis.com/contests/nasouth24d2/standings
+     9th place - VT Team 3 - 
+    98th place - VT Team 5 - 
+    
+    2024    https://nasouth23.kattis.com/contests/nasouth23d1/standings
+    56th place - VT Team 1 - 
+    division 2    https://nasouth23.kattis.com/contests/nasouth23d2/standings
+     8th place - VT Team 4 - 
+    19th place - VT Team 2 - 
+    21st place - VT Team 3 - 
+    
+    2023    https://nasouth22d1.kattis.com/contests/nasouth22d1/standings
     24th place - VT Team 1 - 
     29th place - VT Team 4 - 
     68th place - VT Team 2 - 
     71st place - VT Team 3 - 
-    division 2    https://nasouth22d2.kattis.com/contests/nasouth22d2/standings?filter=4948
+    division 2    https://nasouth22d2.kattis.com/contests/nasouth22d2/standings
     16th place - VT Team 6 - 
     27th place - VT Team 5 - 
     42nd place - VT Team 7 - 
